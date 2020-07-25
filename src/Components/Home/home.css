@@ -1,0 +1,24 @@
+#home {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(./codinga.jpg);
+    
+    }
+    
+    .title{
+        margin-left: 50%;
+        text-align: center;
+        color:gainsboro;
+        text-emphasis: bold;
+        font-size: 40px;   
+    }
+    
+    .title2 {
+        margin-top: 50%;
+        text-align: right;
+        color:orange;
+        text-emphasis: bold;
+        font-size: 30px; 
+    }

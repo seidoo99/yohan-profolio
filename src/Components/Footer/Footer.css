@@ -1,0 +1,25 @@
+#sticky-footer {
+    flex-shrink: none;
+   background-color:white;
+   color: khaki;
+   /* flex-shrink: initial; */
+    width: 100vw;
+ }
+ small{
+     flex-shrink: none;
+     color: white;
+   }
+
+   #footer {
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    height: 10PX;
+    position:fixed;
+   width: 100;
+}
+#contacts{
+    background-color: khaki;
+}
+#contacticon {
+    padding: 5px;
+}

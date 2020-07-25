@@ -1,0 +1,27 @@
+#about {
+    background-color: rgb(55, 54, 57);
+    color: white;
+    
+}
+
+#my-pic{
+    background-color:rgb(55, 54, 57);
+    color: white;
+    padding-left: 15px;
+    text-align: center;
+
+}
+.card {
+    background-color: black;
+}
+
+#js {
+    color: goldenrod;
+}
+
+.text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
