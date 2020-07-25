@@ -8,7 +8,7 @@ function Nav() {
             <nav id="nav" className="navbar navbar-fixed-top" >
             <div className="container">
                <div className="navbar-header">
-                <a className="navbar-brand">Yohannes Bogale</a>
+                <a href="#" className="navbar-brand">Yohannes Bogale</a>
                 <form className="form-inline">
                     <a className="navbar-brand" href="#about">About</a>
                     <a className="navbar-brand" href="#works">Works</a>
